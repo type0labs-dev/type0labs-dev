@@ -5,7 +5,7 @@
 Ten years shipping enterprise design at **Dell** and **IBM** (design tokens across dell.com, GenAI discovery frameworks, design systems for 8M+ customers). Today I also ship the code:
 
 - 🐍 **Ouroboros** — MMO engine + authoring IDE in Rust. 120k LOC, spec-driven: QUIC networking, `bevy_ecs` server, `wgpu` client.
-- 🎨 **ouro_ds** — shadcn/ui rebuilt natively in egui/Rust: 71 components, token-first, and governance tests that **fail the build** when a raw value sneaks past the tokens. *Open source soon.*
+- 🎨 **[ouroboros-ui](https://github.com/Type-zero-labs/ouroboros-ui)** — shadcn/ui rebuilt natively in egui/Rust: 60+ components, token-first, and governance tests that **fail the build** when a raw value sneaks past the tokens. MIT · [docs + live storybook](https://ouroboros-ui.typezerolabs.com).
 - ✈️ **bLive pipeline** — LLM agent pipeline (Next.js · Claude Agent SDK · PostgreSQL) turning WhatsApp trip briefings into designed commercial proposals. In production at a real travel agency.
 
 ## Elsewhere
